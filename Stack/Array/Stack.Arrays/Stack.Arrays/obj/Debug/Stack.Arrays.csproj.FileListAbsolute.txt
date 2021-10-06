@@ -1,0 +1,6 @@
+D:\Anurag\Study\DS\Stack\Array\Stack.Arrays\Stack.Arrays\bin\Debug\Stack.Arrays.exe.config
+D:\Anurag\Study\DS\Stack\Array\Stack.Arrays\Stack.Arrays\bin\Debug\Stack.Arrays.exe
+D:\Anurag\Study\DS\Stack\Array\Stack.Arrays\Stack.Arrays\bin\Debug\Stack.Arrays.pdb
+D:\Anurag\Study\DS\Stack\Array\Stack.Arrays\Stack.Arrays\obj\Debug\Stack.Arrays.csproj.CoreCompileInputs.cache
+D:\Anurag\Study\DS\Stack\Array\Stack.Arrays\Stack.Arrays\obj\Debug\Stack.Arrays.exe
+D:\Anurag\Study\DS\Stack\Array\Stack.Arrays\Stack.Arrays\obj\Debug\Stack.Arrays.pdb

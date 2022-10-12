@@ -1,0 +1,15 @@
+D:\Anurag\Study\DS\Tree\Tree\Tree\bin\Debug\net6.0\Tree.exe
+D:\Anurag\Study\DS\Tree\Tree\Tree\bin\Debug\net6.0\Tree.deps.json
+D:\Anurag\Study\DS\Tree\Tree\Tree\bin\Debug\net6.0\Tree.runtimeconfig.json
+D:\Anurag\Study\DS\Tree\Tree\Tree\bin\Debug\net6.0\Tree.dll
+D:\Anurag\Study\DS\Tree\Tree\Tree\bin\Debug\net6.0\Tree.pdb
+D:\Anurag\Study\DS\Tree\Tree\Tree\obj\Debug\net6.0\Tree.csproj.AssemblyReference.cache
+D:\Anurag\Study\DS\Tree\Tree\Tree\obj\Debug\net6.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anurag\Study\DS\Tree\Tree\Tree\obj\Debug\net6.0\Tree.AssemblyInfoInputs.cache
+D:\Anurag\Study\DS\Tree\Tree\Tree\obj\Debug\net6.0\Tree.AssemblyInfo.cs
+D:\Anurag\Study\DS\Tree\Tree\Tree\obj\Debug\net6.0\Tree.csproj.CoreCompileInputs.cache
+D:\Anurag\Study\DS\Tree\Tree\Tree\obj\Debug\net6.0\Tree.dll
+D:\Anurag\Study\DS\Tree\Tree\Tree\obj\Debug\net6.0\refint\Tree.dll
+D:\Anurag\Study\DS\Tree\Tree\Tree\obj\Debug\net6.0\Tree.pdb
+D:\Anurag\Study\DS\Tree\Tree\Tree\obj\Debug\net6.0\Tree.genruntimeconfig.cache
+D:\Anurag\Study\DS\Tree\Tree\Tree\obj\Debug\net6.0\ref\Tree.dll

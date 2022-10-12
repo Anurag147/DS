@@ -1,0 +1,15 @@
+D:\Anurag\Study\DS\Queue\Queue\Queue\bin\Debug\net6.0\Queue.exe
+D:\Anurag\Study\DS\Queue\Queue\Queue\bin\Debug\net6.0\Queue.deps.json
+D:\Anurag\Study\DS\Queue\Queue\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+D:\Anurag\Study\DS\Queue\Queue\Queue\bin\Debug\net6.0\Queue.dll
+D:\Anurag\Study\DS\Queue\Queue\Queue\bin\Debug\net6.0\Queue.pdb
+D:\Anurag\Study\DS\Queue\Queue\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+D:\Anurag\Study\DS\Queue\Queue\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anurag\Study\DS\Queue\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+D:\Anurag\Study\DS\Queue\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+D:\Anurag\Study\DS\Queue\Queue\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+D:\Anurag\Study\DS\Queue\Queue\Queue\obj\Debug\net6.0\Queue.dll
+D:\Anurag\Study\DS\Queue\Queue\Queue\obj\Debug\net6.0\refint\Queue.dll
+D:\Anurag\Study\DS\Queue\Queue\Queue\obj\Debug\net6.0\Queue.pdb
+D:\Anurag\Study\DS\Queue\Queue\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
+D:\Anurag\Study\DS\Queue\Queue\Queue\obj\Debug\net6.0\ref\Queue.dll

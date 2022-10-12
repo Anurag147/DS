@@ -1,0 +1,15 @@
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\bin\Debug\net6.0\StockSpanProblem.exe
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\bin\Debug\net6.0\StockSpanProblem.deps.json
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\bin\Debug\net6.0\StockSpanProblem.runtimeconfig.json
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\bin\Debug\net6.0\StockSpanProblem.dll
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\bin\Debug\net6.0\StockSpanProblem.pdb
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\obj\Debug\net6.0\StockSpanProblem.csproj.AssemblyReference.cache
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\obj\Debug\net6.0\StockSpanProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\obj\Debug\net6.0\StockSpanProblem.AssemblyInfoInputs.cache
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\obj\Debug\net6.0\StockSpanProblem.AssemblyInfo.cs
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\obj\Debug\net6.0\StockSpanProblem.csproj.CoreCompileInputs.cache
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\obj\Debug\net6.0\StockSpanProblem.dll
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\obj\Debug\net6.0\refint\StockSpanProblem.dll
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\obj\Debug\net6.0\StockSpanProblem.pdb
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\obj\Debug\net6.0\StockSpanProblem.genruntimeconfig.cache
+D:\Anurag\Study\DS\Stack\StockSpanProblem\StockSpanProblem\obj\Debug\net6.0\ref\StockSpanProblem.dll

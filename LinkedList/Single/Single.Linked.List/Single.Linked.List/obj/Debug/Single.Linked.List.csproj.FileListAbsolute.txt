@@ -1,7 +1,0 @@
-D:\Anurag\Study\DS\LinkedList\Single\Single.Linked.List\Single.Linked.List\bin\Debug\Single.Linked.List.exe.config
-D:\Anurag\Study\DS\LinkedList\Single\Single.Linked.List\Single.Linked.List\bin\Debug\Single.Linked.List.exe
-D:\Anurag\Study\DS\LinkedList\Single\Single.Linked.List\Single.Linked.List\bin\Debug\Single.Linked.List.pdb
-D:\Anurag\Study\DS\LinkedList\Single\Single.Linked.List\Single.Linked.List\obj\Debug\Single.Linked.List.csprojAssemblyReference.cache
-D:\Anurag\Study\DS\LinkedList\Single\Single.Linked.List\Single.Linked.List\obj\Debug\Single.Linked.List.csproj.CoreCompileInputs.cache
-D:\Anurag\Study\DS\LinkedList\Single\Single.Linked.List\Single.Linked.List\obj\Debug\Single.Linked.List.exe
-D:\Anurag\Study\DS\LinkedList\Single\Single.Linked.List\Single.Linked.List\obj\Debug\Single.Linked.List.pdb

@@ -1,0 +1,15 @@
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\obj\Debug\net6.0\Circular.LinkedList.csproj.AssemblyReference.cache
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\obj\Debug\net6.0\Circular.LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\obj\Debug\net6.0\Circular.LinkedList.AssemblyInfoInputs.cache
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\obj\Debug\net6.0\Circular.LinkedList.AssemblyInfo.cs
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\obj\Debug\net6.0\Circular.LinkedList.csproj.CoreCompileInputs.cache
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\bin\Debug\net6.0\Circular.LinkedList.exe
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\bin\Debug\net6.0\Circular.LinkedList.deps.json
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\bin\Debug\net6.0\Circular.LinkedList.runtimeconfig.json
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\bin\Debug\net6.0\Circular.LinkedList.dll
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\bin\Debug\net6.0\Circular.LinkedList.pdb
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\obj\Debug\net6.0\Circular.LinkedList.dll
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\obj\Debug\net6.0\refint\Circular.LinkedList.dll
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\obj\Debug\net6.0\Circular.LinkedList.pdb
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\obj\Debug\net6.0\Circular.LinkedList.genruntimeconfig.cache
+D:\Anurag\Study\DS\LinkedList\Circular.LinkedList\Circular.LinkedList\obj\Debug\net6.0\ref\Circular.LinkedList.dll
